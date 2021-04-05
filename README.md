@@ -13,12 +13,12 @@
 ![step 2 2](https://user-images.githubusercontent.com/56240483/113546837-fb083c80-9616-11eb-974e-99f4cbe66407.png)
 
 ## C. Langkah ketiga
-- Membuat CSS eksternal lalu mulai menambahkan <link> yang dibagian <head> dalam file HTML, untuk mengkoneksi file CSS eksternal tersebut.
+- Selanjutnya membuat dan memasukan kode ke eksternal CSS, lalu mulai menambahkan tag koneksi link yang dibagian head dalam file HTML, untuk mengkoneksi file CSS eksternal tersebut.
 ![step 4 1](https://user-images.githubusercontent.com/56240483/113546821-f6438880-9616-11eb-856e-e1d521c80ae5.png)
 ![step 4 2](https://user-images.githubusercontent.com/56240483/113546824-f80d4c00-9616-11eb-8afc-5f69440b2fa1.png)
   
 ## D. Langkah empat
-- Setelah itu kita menambahkan CSS selector menggunakan ID dan Class Selector pada file CSS eksternal
+- Membuat CSS selector dan masukan kode di ID dan Class Selector di file Eksternal CSS
 ![step 5](https://user-images.githubusercontent.com/56240483/113546826-f8a5e280-9616-11eb-91af-91d5c35a23b8.png)
 
 ## E. langkah lima
