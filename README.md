@@ -38,8 +38,8 @@ Hasil uji Validator pada CSS Eksternal Eksperimen
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 ```
-CSS elemen h1  yaitu untuk mengubah tampilan seluruh elemen yang memiliki tag h1,
-sedangkan #intro h1 yaitu hanya untuk mengubah tampilan elemen h1 yang memiliki id #intro.
+CSS elemen h1  yaitu untuk mengubah tampilan seluruh elemen yang memiliki tag h1 yang ada pada internal dan inline penggunaan style,
+sedangkan #intro h1 yaitu hanya untuk mengubah tampilan elemen h1 yang memiliki id #intro yang ada pada eksternal css style.
 ```
 
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
