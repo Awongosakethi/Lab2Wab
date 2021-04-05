@@ -34,14 +34,14 @@ Saya melakukan eksperimen, membuat background lingkaran lalu memasukan gambar, d
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 ```
-Pendeklarasian CSS elemen h1 mengubah tampilan seluruh elemen yang memiliki tag h1,
-sedangkan #intro h1 hanya mengubah tampilan elemen h1 yang memiliki id #intro.
+CSS elemen h1  yaitu untuk mengubah tampilan seluruh elemen yang memiliki tag h1,
+sedangkan #intro h1 yaitu hanya untuk mengubah tampilan elemen h1 yang memiliki id #intro.
 ```
 
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 ```
-Saat pengujian, lalu mendeklarasikan elemen yang sama tetapi dengan 
-mengisi deklarasi yang berbeda, maka seluruh deklarasi akan di tampilkan
+Saat pengujian, dan melakukan mendeklarasikan elemen yang sama tetapi dengan 
+mengisi deklarasi yang berbeda, maka seluruh deklarasi akan di tampilkan bersamaan 
 ```
 ![eksperimen 2 0](https://user-images.githubusercontent.com/56240483/113548939-a961b100-961a-11eb-92a4-03e05b854f92.png)
 ![eksperimen 2](https://user-images.githubusercontent.com/56240483/113549954-7a4c3f00-961c-11eb-816f-c609001ea882.png)
