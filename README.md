@@ -31,6 +31,10 @@
 Saya melakukan eksperimen, membuat background lingkaran lalu memasukan gambar, dan mengubah warna tampilan
 ```
 ![eksperimen 1 1](https://user-images.githubusercontent.com/56240483/113548936-a797ed80-961a-11eb-8b1c-811ba606d972.png)
+```
+Hasil uji Validator pada CSS Eksternal Eksperimen
+```
+![Screenshot (614)](https://user-images.githubusercontent.com/56240483/113555046-7ae8d380-9624-11eb-959a-30146e283ac9.png)
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 ```
