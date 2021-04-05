@@ -22,7 +22,7 @@
 ![step 5](https://user-images.githubusercontent.com/56240483/113546826-f8a5e280-9616-11eb-91af-91d5c35a23b8.png)
 
 ## E. langkah lima
-- Hasil percobaan uji Validator pada CSS eksternal
+- Melakukan percobaan uji Validator pada CSS eksternal
 ![Screenshot (613)](https://user-images.githubusercontent.com/56240483/113548397-a7e3b900-9619-11eb-95d3-edaaa1ca6726.png)
 
 # Pertanyaan dan Tugas
